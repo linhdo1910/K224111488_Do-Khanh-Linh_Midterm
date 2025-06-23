@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">K224111488_Do Khanh Linh_K22411CA</string>
+    <string name="title_login">Login</string>
+    <string name="title_login_username_hint">Enter your username</string>
+    <string name="title_login_password_hint">Enter your password</string>
+    <string name="radio_admin">Admin</string>
+    <string name="radio_employee">Employee</string>
+    <string name="button_login">Login</string>
+    <string name="title_about_me">About me</string>
+    <string name="title_student_name">Do Khanh Linh</string>
+    <string name="title_student_ID">K224111488</string>
+    <string name="title_student_email">Email</string>
+    <string name="tv_student_email">linhdk22411Ca@st.uel.edu.vn</string>
+    <string name="title_class_name">Class name</string>
+    <string name="tv_student_class">K22411CA</string>
+    <string name="title_dob">DOB</string>
+    <string name="tv_student_dob">19/10/2004</string>
+    <string name="title_task">Current Task to Call:</string>
+    <string name="button_createnewtask">Create a New Task</string>
+    <string name="title_task_title">Task Title</string>
+    <string name="button_createtask">Create Task</string>
+    <string name="title_customer_name">Customer Name</string>
+    <string name="title_phone_number">Phone Number</string>
+</resources>
